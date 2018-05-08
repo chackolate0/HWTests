@@ -8,7 +8,7 @@ public class Asterisks {
 				System.out.println("* * * * * * * * ");
 			}
 			else {
-				System.out.println(" * * * * * * * * ");
+				System.out.println(" * * * * ** * * ");
 			}
 			
 		}
